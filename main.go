@@ -7,7 +7,7 @@ import (
 func Add(a, b int) int {
 	return a + b
 }
-
+//ebal v rot vscode
 func main() {
 	fmt.Println("Я домашка")
 }
